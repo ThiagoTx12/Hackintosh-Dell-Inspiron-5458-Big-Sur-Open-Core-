@@ -1,3 +1,3 @@
-EFI Dell Inspiron 5458 i5200U Big Sur
+EFI Dell Inspiron 5458 i5 500U Big Sur
 
 Everything Works Excpet Bluetooth
